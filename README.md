@@ -1,0 +1,2 @@
+# indiant
+Red social para turistas, donde los más importante es descubrir y conquistar lugares, el centro de atención esta en viralizar los destinos turísticos y brindarle al turista una experiencia personalizada en base a su geolocalización y sus intereses, Los intereses se recolectan a través de un algoritmo social basado en colonias humanas que nos permite la recolección geolocalizada de los intereses en tiempo real, además de servir como una funcionalidad de comunicación y colaboración entre turistas.
